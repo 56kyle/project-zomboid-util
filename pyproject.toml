@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "project-zomboid-util"
-version = "0.0.0"
+version = "0.0.1"
 description = "Project Zomboid Util"
 authors = ["Kyle Oliver <56kyleoliver@gmail.com>"]
 license = "MIT"
